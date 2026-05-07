@@ -32,3 +32,6 @@ This server-side tag allows you to track Voluum conversions via server-to-server
 ## Open Source
 
 The **Voluum Tag by Stape** is developed and maintained by the [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/voluum-tag)
