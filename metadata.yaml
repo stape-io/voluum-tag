@@ -1,5 +1,7 @@
 homepage: 'https://stape.io/'
 documentation: 'https://github.com/stape-io/voluum-tag'
 versions:
+  - sha: 549e3320fca2d43d32d47d127c184eb1586a90ac
+    changeNotes: Logging removal.
   - sha: b76c489d5ca26b4668435b3749639f8d4220bf13
     changeNotes: Initial release.
