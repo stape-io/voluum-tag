@@ -8,7 +8,6 @@ This server-side tag allows you to track Voluum conversions via server-to-server
 - **Cookie Management**: Automatically extracts the Click ID from the URL during a Page View and stores it as a first-party cookie.
 - **Flexible Parameters**: Supports sending multiple custom parameters, including Payout, Transaction ID, Currency, and Event Type.
 - **Optimistic Scenario**: Option to trigger `gtmOnSuccess()` immediately without waiting for the API response.
-- **BigQuery Logging**: Native support for streaming request and response data to BigQuery.
 
 ## Configuration
 
